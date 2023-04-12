@@ -1,3 +1,4 @@
+# Mixer App - Organize Your Recipes
 # MySQL + Flask Boilerplate Project
 
 This repo contains a boilerplate setup for spinning up 3 Docker containers: 
